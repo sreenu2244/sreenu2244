@@ -12,13 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=sreenu2244&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sreenu2244&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Recent public activity
-_Updated daily from public GitHub events; commit messages and private activity are not displayed._
-
-<!-- recent-activity:start -->
-_No recent public activity found._
-<!-- recent-activity:end -->
-
 ---
 [![](https://komarev.com/ghpvc/?username=sreenu2244&icon=0&color=0)](https://visitcount.itsvg.in)
 
