@@ -1,6 +1,5 @@
-Here’s a more polished, advanced version of your profile README. Replace the project placeholders with your actual repository links before publishing.
 
-```markdown
+
 <h1 align="center">Hi, I'm Srinuvasula Reddy 👋</h1>
 
 <p align="center">
@@ -70,6 +69,3 @@ A computer-vision project exploring how an ESP32-CAM can capture fruit images fo
 <p align="center">
   <i>Learning by building, one project at a time.</i>
 </p>
-```
-
-I corrected the malformed LinkedIn URL based on the profile name in your original link.
