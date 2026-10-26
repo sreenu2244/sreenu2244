@@ -1,54 +1,22 @@
-<h1 align="center">Hi, I'm Srinuvasula Reddy 👋</h1>
+# 💫 About Me:
 
-<p align="center">
-  Electronics & Communication Engineering Student · Python · AI · Embedded Systems
-</p>
+🎓 B.Tech Electronics & Communication Engineering Student (2026)<br>💻 Passionate about Python, AI, Embedded Systems, and Technology<br>🚁 Interested in Drone Systems, IoT, and Real-World Engineering Projects<br>🛠️ Skilled in Python, Power BI, and basic Web Technologies<br>📷 Currently working on projects like Fruit Quality Detection using ESP32-CAM<br>📈 Continuously learning and building practical skills for a Software Engineering career<br>🏀 Active in extracurricular activities, including basketball and technical leadership roles
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/srinuvasulareddy224422/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
-  </a>
-  <a href="mailto:sreenu224422@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email">
-  </a>
-</p>
+## 🌐 Socials:
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/srinuvasulareddy224422) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreenu224422@gmail.com) 
 
-## About Me
+# 💻 Tech Stack:
 
-I'm a B.Tech Electronics & Communication Engineering student graduating in 2026. I enjoy learning how software and electronics work together, and building practical skills through hands-on projects.
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- 🌱 Learning Python, AI, embedded systems, and IoT
-- 🚁 Interested in drone systems and real-world engineering
-- 🛠️ Use Python, Power BI, Git, GitHub, and basic web technologies
-- 🏀 Enjoy basketball and taking part in technical leadership activities
-- 🎯 Growing my skills for a career in software engineering
+# 📊 GitHub Stats:
 
-## Skills & Tools
+![](https://github-readme-stats.shion.dev/api?username=sreenu2244&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sreenu2244&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sreenu2244&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/IoT-008080?style=for-the-badge" alt="IoT">
-  <img src="https://img.shields.io/badge/Embedded%20Systems-555555?style=for-the-badge" alt="Embedded Systems">
-</p>
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=sreenu2244&show_icons=true&theme=dark&hide_border=true" alt="GitHub statistics">
-  <img height="165" src="https://streak-stats.demolab.com/?user=sreenu2244&theme=dark&hide_border=true" alt="GitHub contribution streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sreenu2244&layout=compact&theme=dark&hide_border=true" alt="Most-used programming languages">
-</p>
-
-## Recent Public Activity
+## Recent public activity
 
 *Updated daily from public GitHub events; commit messages and private activity are not displayed.*
 
@@ -56,8 +24,6 @@ I'm a B.Tech Electronics & Communication Engineering student graduating in 2026.
 *No recent public activity found.*
 <!-- recent-activity:end -->
 
+---
 
-
-<p align="center">
-  <i>Learning, building, and improving every day.</i>
-</p>
+give more advans
